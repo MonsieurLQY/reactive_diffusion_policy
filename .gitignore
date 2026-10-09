@@ -143,3 +143,5 @@ rdp_venv/
 
 # Pycharm
 .idea/
+
+.venv/
